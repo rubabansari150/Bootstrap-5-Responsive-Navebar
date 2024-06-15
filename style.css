@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: font poppins;
+    src: url("./Poppins/Poppins-Regular.ttf");
+}
+body{
+    font-family: font poppins;
+}
+.icon{
+    width: 54px;
+}
+.icon2{
+    width: 44px;
+}
+.icon3{
+    width: 31px;
+}
+
+.logo{
+    width: 45px;
+}
+img{
+    height: 100%;
+}
+.carousel-item{
+   height: 567px;
+}
+
+.nav-link:hover{
+   color: black !important;
+} 
+
